@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Marco Cannata and I'm a Test Automation engineer at Solvd
+- 👀 I’m interested in sports, gaming and computers
+- 🌱 I’m currently learning Scala for performance testing with Gatling
+- 💞️ I’m looking to collaborate on a project that could be a challenge for me and an oportunity to learn new skils
+- 📫 How to reach me -> marcocannata76@gmail.com              
